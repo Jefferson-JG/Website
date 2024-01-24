@@ -247,6 +247,17 @@ nav .close-icon{
     color: white;
 }
 
+.sobre .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sobre .sobre-text{
+    width: 50%;
+    padding-right: 40px;
+}
+
 @media(max-width: 830px){
     .ul{
         position: fixed;
