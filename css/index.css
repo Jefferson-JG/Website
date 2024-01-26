@@ -352,7 +352,26 @@ nav .close-icon {
     width: 80px;
 }
 
+.dados .dados-item p{
+    font-size: 18px;
+}
+
+.dados .dados-item p strong{
+    font-size: 28px;
+
+}
+
 /* end dados */
+
+/* Pagina de Contato */
+
+.contato-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+/* end pagina de contato */
 
 
 @media(max-width: 830px) {
